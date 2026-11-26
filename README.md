@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FCE4EC,50:F8BBD0,100:FCE4EC&height=190&section=header&text=Kimberly%20Tan&fontSize=48&fontColor=6D4354&fontAlignY=42&desc=Computer%20Science%20Graduate%20%7C%20AI%20%26%20Computer%20Vision%20%7C%20Software%20Development&descSize=14&descAlignY=68&descColor=765568" width="100%" alt="Kimberly Tan profile banner" />
+# ♡ Kimberly Tan
+
+**Computer Science Graduate | AI & Computer Vision | Software Development**
+
+*Welcome to my GitHub profile!*
+
+---
 
 </div>
 
@@ -97,16 +103,10 @@ I'm a Computer Science graduate with an interest in Artificial Intelligence, Mac
 
 ## ♡ Let's Connect
 
+**Email:** huihsien88@gmail.com
+
 <div align="center">
 
-<a href="mailto:huihsien88@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F8DDE8?style=for-the-badge&logo=gmail&logoColor=6D4354" alt="Email Kimberly" />
-</a>
-
-<br />
-
 *Thanks for stopping by! Have a lovely day ♡*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F8BBD0&height=3&section=footer" width="100%" alt="" />
 
 </div>
